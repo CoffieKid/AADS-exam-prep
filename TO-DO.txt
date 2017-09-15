@@ -1,0 +1,17 @@
+Random algorithms:
+	- Random Quicksort
+	- Random MinCut
+
+Hashing:
+	- Sampling
+		- multiply-mod-prime
+		- multiply-shift
+			- Strong universality
+			- Universal hashing
+		- Vector-multiply-shift
+		- Pair-multiply-shift
+	- String Hashing
+		- Hashing vector prefixes
+		- Hashing bounded length strings
+		- Hashing variable length strings
+
